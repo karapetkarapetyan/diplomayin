@@ -1,0 +1,28 @@
+.tabsContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.tabsHeader {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.tabButton {
+  padding: 10px 20px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  font-family: Nunito;
+  border-bottom: 2px solid #ccc;
+}
+
+.activeTab {
+  font-weight: bold;
+  border-bottom: 2px solid #3f8b94;
+}

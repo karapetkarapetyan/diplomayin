@@ -1,0 +1,103 @@
+{
+  "LocaleLayout": {
+    "title": "SMM Dashboard",
+    "description": "This is amazing SMM Dashboard"
+  },
+  "Sidebar": {
+    "dashboard": "Dashboard",
+    "calculator": "Calculator",
+    "calendar": "Calendar"
+  },
+  "Profile": {
+    "upload": "Upload Photo",
+    "delete": "Delete",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "username": "Username",
+    "position": "Position",
+    "email": "Email Address",
+    "phone": "Phone number",
+    "location": "Location",
+    "time": "Time Zone",
+    "profile": "Profile",
+    "log-out": "Log out",
+    "save-changes": "Save Changes"
+  },
+  "Dashboard": {
+    "followers-growth": "Followers Growth",
+    "all-activities": "All Activities",
+    "likes": "Likes",
+    "followers": "Followers",
+    "comments": "Comments",
+    "views": "Views",
+    "show-all": "Show all",
+    "inbox": "Inbox",
+    "follow-requests": "Follow Requests",
+    "day": "Day",
+    "week": "Week",
+    "month": "Month",
+    "trimester": "Trimester",
+    "sent-you-a-message": "Sent you a message",
+    "sent-you-a-follow-request": "Sent you a follow request",
+    "commented-on-your-post": "Commented on your post"
+  },
+  "Calendar": {
+    "today": "Today",
+    "month": "Month",
+    "week": "Week",
+    "day": "Day"
+  },
+  "Calculator": {
+    "engagementMetrics": "Engagement Metrics",
+    "costCalculations": "Cost Calculations",
+    "campaignPlanner": "Campaign Planner",
+    "influencerMetrics": "Influencer Metrics",
+
+    "header": "Social Media Marketing Calculator",
+    "description": "Use this calculator to estimate your campaign metrics including ROI, Cost Per Click, Influencer Performance, and more.",
+    "likes": "Likes",
+    "comments": "Comments",
+    "shares": "Shares",
+    "followers": "Followers",
+    "reach": "Reach",
+    "impressions": "Impressions",
+    "clicks": "Clicks",
+    "conversions": "Conversions",
+
+    "epmetrics": "📈 Engagement & Performance Metrics",
+    "EngagementRate": "Engagement Rate",
+    "ReachRate": "Reach Rate",
+    "ImpressionsperFollower": "Impressions per Follower",
+    "Click-ThroughRate(CTR)": "Click-Through Rate(CTR)",
+    "ConversionRate": "Conversion Rate",
+    "acquisitions": "Acquisitions",
+
+    "rcc": "📊 ROI & Cost Calculators",
+    "roi": "ROI:",
+    "cpc": "Cost Per Click:",
+    "cpm": "Cost Per Mille (CPM):",
+    "cpa": "Cost Per Acquisition (CPA):",
+    "currency": "Select Currency",
+    "total-ad-spend": "Total Ad Spend ({currency})",
+    "revenue-generated": "Revenue Generated ({currency})",
+
+    "cbp": "💰 Campaign & Budget Planner",
+    "campaignduration": "Campaign Duration (days)",
+    "dailybudget": "Daily Budget:",
+    "estimatedclicks": "Estimated Clicks:",
+    "estimatedimpressions": "Estimated Impressions:",
+    "total-budget": "Total Budget ({currency})",
+    "estimated-cpc": "Estimated CPC ({currency})",
+    "estimated-cpm": "Estimated CPM ({currency})",
+
+    "ipm": "🤝 Influencer & Partnership Metrics",
+    "InfluencerFollowers": "Influencer Followers",
+    "Engagementrate": "Engagement Rate (%)",
+    "TotalEngagements": "Total Engagements",
+    "EstReachValue": "Estimated Reach Value:",
+    "cpe": "Cost Per Engagement (CPE):",
+    "partROI": "Partnership ROI:",
+    "partnership-cost": "Partnership Cost ({currency})"
+
+  }
+}

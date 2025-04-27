@@ -1,0 +1,25 @@
+.container {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e5e6ea;
+  max-width: 800px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px 20px 0 32px;
+}
+
+.filter {
+  display: flex;
+  gap: 12px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-family: Nunito;
+}

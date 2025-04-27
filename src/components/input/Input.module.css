@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+.label {
+  font-size: 16px;
+  font-weight: 700;
+  color: #131417;
+  font-family: Nunito;
+}
+.input-container {
+  border: 1px solid #d1d5db;
+  background-color: #ffffff;
+  height: 52px;
+  font-size: 18px;
+  color: #abb1bb;
+  border-radius: 8px;
+  position: relative;
+  max-height: 44px;
+  font-family: Nunito;
+}
+.input-container > input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+}
+.icon-left {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+}
+
+.icon-right {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+}

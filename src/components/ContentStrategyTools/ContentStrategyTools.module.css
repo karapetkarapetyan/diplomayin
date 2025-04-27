@@ -1,0 +1,45 @@
+.container {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  margin: 2rem auto;
+  font-family: sans-serif;
+}
+
+.title {
+  margin-bottom: 1.5rem;
+  font-size: 1.4rem;
+  color: #333;
+}
+
+.subsection {
+  max-width: 1000px;
+  margin-bottom: 2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+  max-width: 1000px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+}
+
+.input {
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+  margin-top: 0.3rem;
+}
+
+.result {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}

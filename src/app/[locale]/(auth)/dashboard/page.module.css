@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  gap: 22px;
+  margin-top: 4rem !important;
+}
+
+.charts-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: space-between;
+  max-width: 800px;
+  gap: 22px;
+}
+
+.inner-container{
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  width: 100%;
+  max-width: 800px;
+}
